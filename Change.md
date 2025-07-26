@@ -1,6 +1,0 @@
-#Here are The Change logs
-
-###25.7.2025
-Created The repository
-Updated the Readme.md
-Added 2 New Macro's
